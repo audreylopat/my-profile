@@ -1,0 +1,33 @@
+body {
+	background-color: white;
+	color: grey;
+	font-family: fantasy;
+	font-size: 17px;
+	line-height: 
+}
+
+h1 {
+	color: pink;
+	font-family: fantasy;
+	letter-spacing: 5px;
+	font-size: 30px;
+}
+
+h2 {
+	color: pink;
+	font-family: times, serif;
+}
+
+h3 {
+	color: rgb(45, 45, 45)
+}
+a {
+	color: grey;
+	font-family: times, serif;
+}
+#logo{
+	border-radius: 50%;
+}
+#mdg{
+	color:pink;
+}
